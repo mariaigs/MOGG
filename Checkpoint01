@@ -1,0 +1,54 @@
+Project Checkpoint 01 (Olivier Gingras, Maria Guerrero)
+
+1.	Team Name: Each team should have a name. The name needs to be selected by the team members
+
+-	Our team’s name is going to be MOGG
+
+2.	Team Members: Each team should list the names of the member with their Student ID and email address
+
+-	Name: Olivier Gingras
+-	Student ID: 2310077 
+-	Email Address: 2310077@champlaincollege.qc.ca
+
+-	Name: Maria Isabel Guerrero 
+-	Student ID: 2331016
+-	Email Address: 2331016@champlaincollege.qc.ca
+
+3.	Github: Each team needs to create a Github repository with their team name. And each team member should have a branch in their Github repository
+https://github.com/mariaigs/MOGG.git
+
+4.	Project Description: Each team needs to discuss their game project idea, the interaction between the characters in the Game and what is the Genre (i.e. horror, racing) of the game. E.g. A horror game needs to have a main character (hero), ghost characters and some other environmental objects like trees, plain grass and so on. Each team needs to explain it carefully so that their teacher can understand the project idea properly.
+
+Project Description 
+Our game is a sci-fi investigation thriller set aboard a 2D spaceship, where you, the astronaut must uncover a deadly mystery. Player takes on the role of crew member on a space mission, living and working inside a spaceship with approximately five circular-shaped rooms.
+One day, an emergency alert is triggered the system detects that one of the astronauts has been murdered. However, this is no ordinary crime. The killer is among the crew, but they have been corrupted by alien entity. The player must carefully investigate the spaceship, collect clues, ad determine who the traitor is before it’s too late. 
+
+Gameplay & Interaction: 
+-	Investigation Mechanics: The player must search for evidence throughout the spaceship by completing tasks such as decrypting messages, analyzing data, or speaking with astronauts who hold crucial information about the crime. There will also be mandatory spaceship maintenance tasks that need to be completed, ensuring the ship remains functional during the investigation.
+-	Choice-Based Narrative: The game is structured around a 7-day schedule. Every night at dawn, the crew will gather for a meeting to discuss findings and suspicions. The player must decide who trust and to whom they reveal the collected information. Crew members may choose to share or withhold information based on their own motives. As the main character, the player will make the final decision on who they believe is the corrupted astronaut and inform the crew of their persuasive conclusion. 
+-	Win/Lose Conditions: 
+o	The player has 7 days to correctly identify the corrupted astronaut.
+o	As time progresses, more details and clues will emerge, but it is up the player to decide when to make their final accusation.
+o	If the player accuses the wrong person, they lose the game.
+
+5.	Plan: Each team needs to give their plan, like what they are going to implement in rest of the weeks to develop their project. Each team needs to say what their plan is to show during the first sprint of the project (Checkpoint 02)
+
+
+-	Define our style and game design.
+-	Begin development on the basic 2D spaceship environment (the 5 circular rooms).
+-	Basic player movements.
+-	Build interaction mechanics.
+-	Build investigation system (collect simple clues and display evidence in the UI).
+-	Think an implementation basic dialogue system for the crew interaction.
+-	Introduce basic AI behavior (crew members respond based on progress).
+-	Implement the 7 days investigation cycle (night meetings, crew discussions).
+-	Add player decision-making mechanics (choosing whom to trust).
+-	Improve visual (texture, animation, UI improvements).
+-	Implement the voting and accusation system with win/lose conditions.
+-	Add sound effects music.
+-	Perform bug testing.
+
+
+
+
+
